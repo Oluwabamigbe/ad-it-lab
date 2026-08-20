@@ -20,3 +20,7 @@ secrets*
 *.log
 Thumbs.db
 .DS_Store
+
+# Generated reports
+powershell/reports/
+*.log
